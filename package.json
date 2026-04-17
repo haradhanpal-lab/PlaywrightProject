@@ -1,0 +1,26 @@
+{
+  "name": "playwrighttraining_9jan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.10",
+    "allure-playwright": "^3.6.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "playwright": "^1.57.0",
+    "playwright-core": "^1.57.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "undici-types": "^7.16.0"
+  }
+}
